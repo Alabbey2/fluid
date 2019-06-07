@@ -1,0 +1,20 @@
+body {
+  background-color: green;
+}
+
+#block-mytheme-main-menu ul li {
+  display: inline;
+  margin: 0 10px;
+  font-size: 18px;
+}
+
+#block-mytheme-main-menu {
+  background-color: yellowgreen;
+  padding: 20px 0;
+}
+
+#block-mytheme-main-menu {
+  font-size: 12px
+  
+}
+
